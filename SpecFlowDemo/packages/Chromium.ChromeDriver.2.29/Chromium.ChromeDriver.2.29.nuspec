@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Chromium.ChromeDriver</id>
+    <version>2.29</version>
+    <title>Chromium.ChromeDriver</title>
+    <authors>Chromium, WebDriver</authors>
+    <owners>Chromium, WebDriver</owners>
+    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+    <projectUrl>https://sites.google.com/a/chromium.org/chromedriver</projectUrl>
+    <iconUrl>http://www.chromium.org/_/rsrc/1438879449147/config/customLogo.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ChromeDriver - WebDriver for Chrome</description>
+    <summary />
+    <language>en-US</language>
+    <tags>WebDriver ChromeDriver Chrome Chromium</tags>
+  </metadata>
+</package>
